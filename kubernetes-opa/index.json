@@ -29,6 +29,6 @@
         "uilayout": "terminal"
     },
     "backend": {
-        "imageid": "kubernetes-running"
+        "imageid": "kubernetes-cluster-running"
     }
 }
